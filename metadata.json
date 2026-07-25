@@ -1,0 +1,6 @@
+{
+  "name": "FinBowl Disbursement Dashboard",
+  "description": "Financial disbursement management dashboard with RMS tracking, loan processing, status filters, and export tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
